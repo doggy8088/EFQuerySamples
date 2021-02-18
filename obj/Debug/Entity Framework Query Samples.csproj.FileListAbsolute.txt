@@ -1,0 +1,35 @@
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\bin\Debug\SampleQueries.exe.config
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.SQL2008.ssdl
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.SQL2000.ssdl
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.SSCE.ssdl
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.csdl
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.EFOracleProvider.ssdl
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.msl
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.SampleProvider.ssdl
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.ssdl
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\bin\Debug\DB\NorthwindEF.sdf
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\bin\Debug\SampleQueries.exe
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\bin\Debug\SampleQueries.pdb
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\obj\Debug\SampleQueries.FormSampleRunner.resources
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\obj\Debug\GenerateResource.read.1.tlog
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\obj\Debug\GenerateResource.write.1.tlog
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\obj\Debug\SampleQueries.exe
+F:\Projects\VS2010\EFQuerySamples_4.0_RTM\Updates for RTM\EFQuerySamples\obj\Debug\SampleQueries.pdb
+C:\Users\User\Downloads\EFQuerySamples\bin\Debug\SampleQueries.exe.config
+C:\Users\User\Downloads\EFQuerySamples\obj\Debug\SampleQueries.exe
+C:\Users\User\Downloads\EFQuerySamples\obj\Debug\SampleQueries.pdb
+C:\Users\User\Downloads\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.SQL2008.ssdl
+C:\Users\User\Downloads\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.SQL2000.ssdl
+C:\Users\User\Downloads\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.SSCE.ssdl
+C:\Users\User\Downloads\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.csdl
+C:\Users\User\Downloads\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.EFOracleProvider.ssdl
+C:\Users\User\Downloads\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.msl
+C:\Users\User\Downloads\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.SampleProvider.ssdl
+C:\Users\User\Downloads\EFQuerySamples\bin\Debug\Schemas\NorthwindEFModel.ssdl
+C:\Users\User\Downloads\EFQuerySamples\bin\Debug\DB\NorthwindEF.sdf
+C:\Users\User\Downloads\EFQuerySamples\bin\Debug\SampleQueries.exe
+C:\Users\User\Downloads\EFQuerySamples\bin\Debug\SampleQueries.pdb
+C:\Users\User\Downloads\EFQuerySamples\obj\Debug\Entity Framework Query Samples.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\EFQuerySamples\obj\Debug\SampleQueries.FormSampleRunner.resources
+C:\Users\User\Downloads\EFQuerySamples\obj\Debug\Entity Framework Query Samples.csproj.GenerateResource.Cache
